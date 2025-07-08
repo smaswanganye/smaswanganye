@@ -1,3 +1,9 @@
-# About Sipho
+# 🤖 Sipho Maswanganye
+### Software Developer at Labournet
+```
+Creating beautiful things...
+```
 
-<img src="https://platform.labournet.com/assets/logo.svg" width=50 />
+```
+<h3>HELLO WORLD</h3>
+```
