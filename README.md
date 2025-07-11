@@ -1,5 +1,5 @@
 # 🤖 Sipho Maswanganye
-### Software Developer at Labournet
+### Senior Software Developer at Labournet
 ```
 Creating beautiful things...
 ```
